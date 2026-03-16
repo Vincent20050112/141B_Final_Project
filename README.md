@@ -1,7 +1,7 @@
 # 141B_Final_Project
 
 # Data Source
-The link for our data is from https://developer.nlr.gov/docs/transportation/alt-fuel-stations-v1/all/#geojson-output-format.
+The link for our data is from https://developer.nlr.gov/docs/transportation/alt-fuel-stations-v1/all/.
 The API key is from https://developer.nlr.gov/signup/.
 
 # Content
